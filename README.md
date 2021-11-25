@@ -9,7 +9,6 @@ Systems engineering student and developer.
   
       - Java (OOP)
       
-      - JavaScript (Basic)
 
   * Frameworks:
   
@@ -24,6 +23,8 @@ Systems engineering student and developer.
       - English (Advanced)
       
 - 🌱 I’m currently learning:
+
+      - JavaScript 
 
       - Python
       
