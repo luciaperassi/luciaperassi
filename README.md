@@ -30,7 +30,6 @@ Systems engineering student and developer.
       
       - React
       
-      - Angular
       
 - 📫 How to reach me: luciaperassi1997@gmail.com
       
