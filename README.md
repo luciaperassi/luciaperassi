@@ -16,7 +16,7 @@ Systems engineering student and developer.
 
   * Other skills:
   
-      - HTML + CSS (Basic)
+      - HTML + CSS 
       
       - Adobe Illustrator (Basic)
       
